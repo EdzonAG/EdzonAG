@@ -1,9 +1,9 @@
-<h1 align="center">Hi! I'm エドズン</h1>
+<h1 align="center">Hi! エドズン here.</h1>
 
-<h2 align="center"><img src="https://i.pinimg.com/originals/6f/46/74/6f4674a1813adbc5928ba3b30f526d26.gif" width="250"></h2>
+<h2 align="center"><img src="https://i.pinimg.com/originals/1c/ec/60/1cec60b076ed3e42a0a253548370a353.gif" width="450"></h2>
 
 
-<h3 align="center"> I'm a self-taught code student.
+<h3 align="center"> I'm a self-taught code student and math college student.
 
 I want to learn enough to be able to work in a reputable company.
 
